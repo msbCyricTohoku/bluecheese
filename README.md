@@ -3,7 +3,7 @@
 ---
 screenshot:
 
-![alt text](https://github.com/msbCyricTohoku/bluecheese/tree/main/resources/img.png)
+![alt text](https://github.com/msbCyricTohoku/bluecheese/blob/main/resources/img.png)
 
 enjoy!
 
